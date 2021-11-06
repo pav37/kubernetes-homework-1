@@ -1,1 +1,0 @@
-# kubernetes-homework-1
