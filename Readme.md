@@ -1,5 +1,5 @@
 # Развертывание
-    kubectl apply -f .
+    kubectl apply -f k8s
 Манифесты развертываются в namespace homework
 
 # Проверка
